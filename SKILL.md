@@ -2,7 +2,7 @@
 summary: 抖音公开视频数据只读API：关键词搜索排序、博主作品抓取、单条作品详情、视频/图文评论、实时热榜，输出结构化JSON。用于短视频选题、竞品监控、舆情分析、热点追踪、需求挖掘。触发词：抖音搜索、抖音评论、抖音热榜、抖音博主、douyin search、douyin comments。
 displayName: 抖音视频洞察｜关键词搜索·博主作品·视频评论·实时热榜
 slug: douyin-topic-hunter
-name: douyin-search-keyword
+name: douyin-topic-hunter
 description: 抖音公开视频数据只读：关键词搜索、博主作品、作品详情、评论、热榜。触发：抖音搜索、热搜、评论、需求挖掘、痛点、作品详情、博主作品、对标账号、播放量、选题、舆情、竞品。小红书、快手、B站、微博、公众号不要用本技能。sec_uid、aweme_id、douyin search、douyin hot、douyin detail、douyin comments。
 license: MIT
 version: "1.4.2"
