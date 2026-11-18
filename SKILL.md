@@ -5,7 +5,7 @@ slug: douyin-topic-hunter
 name: douyin-topic-hunter
 description: 抖音公开视频数据只读：关键词搜索、博主作品、作品详情、评论、热榜。触发：抖音搜索、热搜、评论、需求挖掘、痛点、作品详情、博主作品、对标账号、播放量、选题、舆情、竞品。小红书、快手、B站、微博、公众号不要用本技能。sec_uid、aweme_id、douyin search、douyin hot、douyin detail、douyin comments。
 license: MIT
-version: 1.5.1
+version: 1.5.1
 display_name: "抖音视频洞察｜关键词搜索·博主作品·视频评论·实时热榜"
 display_name_en: "Douyin Video Insights"
 description_zh: "抖音公开数据只读技能：关键词搜索视频与图文、用户/达人搜索、博主作品与粉丝数据、单条作品详情、视频图文评论、实时热榜，并可按剧本做需求挖掘与公域获客（搜索→评论）；支持综合/最多点赞/最新排序与时间窗筛选，全部以结构化 JSON 输出，不登录、不发布、不点赞、不评论，适用于爆款选题、对标账号、竞品监控、舆情分析与热点追踪。"
